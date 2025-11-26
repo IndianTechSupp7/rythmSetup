@@ -1,0 +1,4 @@
+demucs
+scipy
+librosa
+numpy
